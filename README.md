@@ -2,7 +2,7 @@
 Working example of bibox API
 
 This repo will help if you have 3011 error for all your private API calls - "The interface does not support apikey request methods".
-`{"error":{"code":"3011","msg":"?????apikey????"}}`
+`{"error":{"code":"3011","msg":"接口不支持apikey请求方式"}}`
 
 It contains exaple of how to use Bibox API
 
